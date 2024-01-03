@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/VSCode/Python/MLFlow_demo/mlruns/492066203626160589/41fbdb23077d44c98f7778fe309c365f/artifacts
+end_time: 1704324751586
+entry_point_name: ''
+experiment_id: '492066203626160589'
+lifecycle_stage: active
+run_id: 41fbdb23077d44c98f7778fe309c365f
+run_name: beautiful-sow-125
+run_uuid: 41fbdb23077d44c98f7778fe309c365f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704324747349
+status: 3
+tags: []
+user_id: pc

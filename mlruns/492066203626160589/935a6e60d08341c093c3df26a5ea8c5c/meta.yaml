@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/VSCode/Python/MLFlow_demo/mlruns/492066203626160589/935a6e60d08341c093c3df26a5ea8c5c/artifacts
+end_time: 1704324767407
+entry_point_name: ''
+experiment_id: '492066203626160589'
+lifecycle_stage: active
+run_id: 935a6e60d08341c093c3df26a5ea8c5c
+run_name: bright-foal-307
+run_uuid: 935a6e60d08341c093c3df26a5ea8c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704324763773
+status: 3
+tags: []
+user_id: pc
