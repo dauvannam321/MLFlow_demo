@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/VSCode/Python/MLFlow_demo/mlruns/369178496239191987/e580fa4af0d74dc4947edba467471011/artifacts
+end_time: 1704355363387
+entry_point_name: ''
+experiment_id: '369178496239191987'
+lifecycle_stage: active
+run_id: e580fa4af0d74dc4947edba467471011
+run_name: adorable-stork-672
+run_uuid: e580fa4af0d74dc4947edba467471011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704355358707
+status: 3
+tags: []
+user_id: pc
