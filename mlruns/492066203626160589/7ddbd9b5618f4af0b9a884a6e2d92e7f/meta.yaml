@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/VSCode/Python/MLFlow_demo/mlruns/492066203626160589/7ddbd9b5618f4af0b9a884a6e2d92e7f/artifacts
+end_time: 1704436276803
+entry_point_name: ''
+experiment_id: '492066203626160589'
+lifecycle_stage: active
+run_id: 7ddbd9b5618f4af0b9a884a6e2d92e7f
+run_name: adorable-finch-550
+run_uuid: 7ddbd9b5618f4af0b9a884a6e2d92e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704436272086
+status: 3
+tags: []
+user_id: pc
